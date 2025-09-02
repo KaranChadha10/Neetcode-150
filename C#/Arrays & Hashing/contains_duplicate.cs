@@ -26,3 +26,11 @@ public class Solution
         return false;
     }
 }
+
+/*
+Time Complexity: O(n) 
+ - We loop through all n elements once, and HashSet operations (Contains/Add) are O(1) on average.
+
+Space Complexity: O(n)
+ - In the worst case (all elements are unique), we store all n elements in the HashSet.
+*/
