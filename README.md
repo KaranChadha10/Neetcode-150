@@ -51,15 +51,15 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/ContainsDuplicate.cs) · [Python](./Python/ArraysAndHashing/ContainsDuplicate.py) | Hash Set |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/ValidAnagram.cs) · [Python](./Python/ArraysAndHashing/ValidAnagram.py) | Hash Map, Sorting |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/TwoSum.cs) · [Python](./Python/ArraysAndHashing/TwoSum.py) | Hash Map |
-| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/GroupAnagrams.cs) · [Python](./Python/ArraysAndHashing/GroupAnagrams.py) | Hash Map, Sorting |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/TopKFrequentElements.cs) · [Python](./Python/ArraysAndHashing/TopKFrequentElements.py) | Bucket Sort, Heap |
-| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/EncodeDecodeStrings.cs) · [Python](./Python/ArraysAndHashing/EncodeDecodeStrings.py) | String Manipulation |
-| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/ProductExceptSelf.cs) · [Python](./Python/ArraysAndHashing/ProductExceptSelf.py) | Prefix/Suffix Product |
-| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/ValidSudoku.cs) · [Python](./Python/ArraysAndHashing/ValidSudoku.py) | Hash Set, Matrix |
-| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/LongestConsecutiveSequence.cs) · [Python](./Python/ArraysAndHashing/LongestConsecutiveSequence.py) | Hash Set, Union Find |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/ContainsDuplicate.cs) | Hash Set |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/ValidAnagram.cs) | Hash Map, Sorting |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/TwoSum.cs) | Hash Map |
+| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/GroupAnagrams.cs) | Hash Map, Sorting |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/TopKFrequentElements.cs) | Bucket Sort, Heap |
+| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/EncodeDecodeStrings.cs) | String Manipulation |
+| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/ProductExceptSelf.cs) | Prefix/Suffix Product |
+| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/ValidSudoku.cs) | Hash Set, Matrix |
+| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/ArraysAndHashing/LongestConsecutiveSequence.cs) | Hash Set, Union Find |
 
 **Key Patterns:**
 - Hash Map for O(1) lookups
@@ -72,11 +72,11 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C#](./TwoPointers/ValidPalindrome.cs) | Two Pointers, String |
-| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C#](./TwoPointers/TwoSumII.cs) | Two Pointers, Binary Search |
-| 12 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [C#](./TwoPointers/ThreeSum.cs) | Two Pointers, Sorting |
-| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [C#](./TwoPointers/ContainerWithMostWater.cs) | Two Pointers, Greedy |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | [C#](./TwoPointers/TrappingRainWater.cs) | Two Pointers, Dynamic Programming |
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/TwoPointers/ValidPalindrome.cs) | Two Pointers, String |
+| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/TwoPointers/TwoSumII.cs) | Two Pointers, Binary Search |
+| 12 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/TwoPointers/ThreeSum.cs) | Two Pointers, Sorting |
+| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/TwoPointers/ContainerWithMostWater.cs) | Two Pointers, Greedy |
+| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/TwoPointers/TrappingRainWater.cs) | Two Pointers, Dynamic Programming |
 
 **Key Patterns:**
 - Opposite direction pointers
@@ -89,12 +89,12 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [C#](./SlidingWindow/BestTimeToBuySellStock.cs) | Sliding Window, Greedy |
-| 16 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [C#](./SlidingWindow/LongestSubstringWithoutRepeating.cs) | Sliding Window, Hash Set |
-| 17 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | [C#](./SlidingWindow/LongestRepeatingCharacterReplacement.cs) | Sliding Window, Hash Map |
-| 18 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | [C#](./SlidingWindow/PermutationInString.cs) | Sliding Window, Hash Map |
-| 19 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | [C#](./SlidingWindow/MinimumWindowSubstring.cs) | Sliding Window, Hash Map |
-| 20 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | [C#](./SlidingWindow/SlidingWindowMaximum.cs) | Sliding Window, Deque, Monotonic Queue |
+| 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/BestTimeToBuySellStock.cs) | Sliding Window, Greedy |
+| 16 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/LongestSubstringWithoutRepeating.cs) | Sliding Window, Hash Set |
+| 17 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/LongestRepeatingCharacterReplacement.cs) | Sliding Window, Hash Map |
+| 18 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/PermutationInString.cs) | Sliding Window, Hash Map |
+| 19 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/MinimumWindowSubstring.cs) | Sliding Window, Hash Map |
+| 20 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/SlidingWindow/SlidingWindowMaximum.cs) | Sliding Window, Deque, Monotonic Queue |
 
 **Key Patterns:**
 - Variable/fixed window size
@@ -107,14 +107,14 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 21 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [C#](./Stack/ValidParentheses.cs) | Stack, String |
-| 22 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | [C#](./Stack/MinStack.cs) | Stack, Design |
-| 23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | [C#](./Stack/EvaluateReversePolishNotation.cs) | Stack, Math |
-| 24 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [C#](./Stack/GenerateParentheses.cs) | Stack, Backtracking |
-| 25 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [C#](./Stack/DailyTemperatures.cs) | Stack, Monotonic Stack |
-| 26 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | [C#](./Stack/CarFleet.cs) | Stack, Sorting |
-| 27 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | [C#](./Stack/LargestRectangleInHistogram.cs) | Stack, Monotonic Stack |
-| 28 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | [C#](./Stack/OnlineStockSpan.cs) | Stack, Monotonic Stack, Design |
+| 21 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/ValidParentheses.cs) | Stack, String |
+| 22 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/MinStack.cs) | Stack, Design |
+| 23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/EvaluateReversePolishNotation.cs) | Stack, Math |
+| 24 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/GenerateParentheses.cs) | Stack, Backtracking |
+| 25 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/DailyTemperatures.cs) | Stack, Monotonic Stack |
+| 26 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/CarFleet.cs) | Stack, Sorting |
+| 27 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/LargestRectangleInHistogram.cs) | Stack, Monotonic Stack |
+| 28 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Stack/OnlineStockSpan.cs) | Stack, Monotonic Stack, Design |
 
 **Key Patterns:**
 - LIFO operations
