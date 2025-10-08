@@ -51,7 +51,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](./ArraysAndHashing/ContainsDuplicate.cs) | Hash Set |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](./Arrays & Hashing/ContainsDuplicate.cs) | Hash Set |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C#](./ArraysAndHashing/ValidAnagram.cs) | Hash Map, Sorting |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C#](./ArraysAndHashing/TwoSum.cs) | Hash Map |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C#](./ArraysAndHashing/GroupAnagrams.cs) | Hash Map, Sorting |
