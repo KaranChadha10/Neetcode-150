@@ -1,5 +1,11 @@
 # 🚀 LeetCode 150 - Problem Solutions
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
+[![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
+
 A comprehensive collection of solutions to the **NeetCode 150** problem set, implemented in **C#**. This repository contains well-commented, optimized solutions with detailed explanations of algorithms, time/space complexity analysis, and problem-solving strategies.
 
 ## 📚 About This Repository
@@ -16,66 +22,28 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 **Total Problems Solved: 32/150**
 
-| Category | Problems Solved | Total Problems |
-|----------|----------------|----------------|
+| Category | Total Problems | Problems Solved |
+|----------|----------------|-----------------|
 | Arrays & Hashing | 9 | 9 |
 | Two Pointers | 5 | 5 |
 | Sliding Window | 6 | 6 |
 | Stack | 8 | 8 |
-| Binary Search | 0 | 7 |
-| Linked List | 0 | 6 |
-| Trees | 0 | 15 |
-| Tries | 0 | 3 |
-| Heap / Priority Queue | 0 | 3 |
-| Backtracking | 0 | 9 |
-| Graphs | 0 | 13 |
-| Advanced Graphs | 0 | 6 |
-| 1-D Dynamic Programming | 0 | 12 |
-| 2-D Dynamic Programming | 0 | 11 |
-| Greedy | 0 | 8 |
-| Intervals | 0 | 6 |
-| Math & Geometry | 0 | 8 |
-| Bit Manipulation | 0 | 7 |
+| Binary Search | 7 | 0 |
+| Linked List | 6 | 0 |
+| Trees | 15 | 0 |
+| Tries | 3 | 0 |
+| Heap / Priority Queue | 3 | 0 |
+| Backtracking | 9 | 0 |
+| Graphs | 13 | 0 |
+| Advanced Graphs | 6 | 0 |
+| 1-D Dynamic Programming | 12 | 0 |
+| 2-D Dynamic Programming | 11 | 0 |
+| Greedy | 8 | 0 |
+| Intervals | 6 | 0 |
+| Math & Geometry | 8 | 0 |
+| Bit Manipulation | 7 | 0 |
 
-## 📂 Repository Structure
 
-```
-LeetCode150/
-├── ArraysAndHashing/
-│   ├── ContainsDuplicate.cs
-│   ├── ValidAnagram.cs
-│   ├── TwoSum.cs
-│   ├── GroupAnagrams.cs
-│   ├── TopKFrequentElements.cs
-│   ├── EncodeDecodeStrings.cs
-│   ├── ProductExceptSelf.cs
-│   ├── ValidSudoku.cs
-│   └── LongestConsecutiveSequence.cs
-├── TwoPointers/
-│   ├── ValidPalindrome.cs
-│   ├── TwoSumII.cs
-│   ├── ThreeSum.cs
-│   ├── ContainerWithMostWater.cs
-│   └── TrappingRainWater.cs
-├── SlidingWindow/
-│   ├── BestTimeToBuySellStock.cs
-│   ├── LongestSubstringWithoutRepeating.cs
-│   ├── LongestRepeatingCharacterReplacement.cs
-│   ├── PermutationInString.cs
-│   ├── MinimumWindowSubstring.cs
-│   └── SlidingWindowMaximum.cs
-├── Stack/
-│   ├── ValidParentheses.cs
-│   ├── MinStack.cs
-│   ├── EvaluateReversePolishNotation.cs
-│   ├── GenerateParentheses.cs
-│   ├── DailyTemperatures.cs
-│   ├── CarFleet.cs
-│   └── LargestRectangleInHistogram.cs
-└── README.md
-```
-
----
 
 ## 📖 Problem Solutions
 
