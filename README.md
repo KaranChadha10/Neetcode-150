@@ -51,15 +51,15 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](./Arrays & Hashing/ContainsDuplicate.cs) | Hash Set |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C#](./ArraysAndHashing/ValidAnagram.cs) | Hash Map, Sorting |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C#](./ArraysAndHashing/TwoSum.cs) | Hash Map |
-| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C#](./ArraysAndHashing/GroupAnagrams.cs) | Hash Map, Sorting |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C#](./ArraysAndHashing/TopKFrequentElements.cs) | Bucket Sort, Heap |
-| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | [C#](./ArraysAndHashing/EncodeDecodeStrings.cs) | String Manipulation |
-| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C#](./ArraysAndHashing/ProductExceptSelf.cs) | Prefix/Suffix Product |
-| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C#](./ArraysAndHashing/ValidSudoku.cs) | Hash Set, Matrix |
-| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C#](./ArraysAndHashing/LongestConsecutiveSequence.cs) | Hash Set, Union Find |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/ContainsDuplicate.cs) · [Python](./Python/ArraysAndHashing/ContainsDuplicate.py) | Hash Set |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/ValidAnagram.cs) · [Python](./Python/ArraysAndHashing/ValidAnagram.py) | Hash Map, Sorting |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C#](./C%23/ArraysAndHashing/TwoSum.cs) · [Python](./Python/ArraysAndHashing/TwoSum.py) | Hash Map |
+| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/GroupAnagrams.cs) · [Python](./Python/ArraysAndHashing/GroupAnagrams.py) | Hash Map, Sorting |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/TopKFrequentElements.cs) · [Python](./Python/ArraysAndHashing/TopKFrequentElements.py) | Bucket Sort, Heap |
+| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/EncodeDecodeStrings.cs) · [Python](./Python/ArraysAndHashing/EncodeDecodeStrings.py) | String Manipulation |
+| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/ProductExceptSelf.cs) · [Python](./Python/ArraysAndHashing/ProductExceptSelf.py) | Prefix/Suffix Product |
+| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/ValidSudoku.cs) · [Python](./Python/ArraysAndHashing/ValidSudoku.py) | Hash Set, Matrix |
+| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C#](./C%23/ArraysAndHashing/LongestConsecutiveSequence.cs) · [Python](./Python/ArraysAndHashing/LongestConsecutiveSequence.py) | Hash Set, Union Find |
 
 **Key Patterns:**
 - Hash Map for O(1) lookups
