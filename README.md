@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-40%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
 [![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
 
@@ -233,9 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- LeetCode: [@yourusername](https://leetcode.com/yourusername)
+- GitHub: [@yourusername](https://github.com/KaranChadha10)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karan-chadha-kc/)
 
 ## ⭐ Show Your Support
 
