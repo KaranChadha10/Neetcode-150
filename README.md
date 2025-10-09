@@ -233,8 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/KaranChadha10)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karan-chadha-kc/)
+- GitHub: [Karan Chadha Github](https://github.com/KaranChadha10)
+- LinkedIn: [Karan Chadha LinkedIn](https://www.linkedin.com/in/karan-chadha-kc/)
 
 ## ⭐ Show Your Support
 
