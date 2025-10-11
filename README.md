@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-40%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
 [![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
 
@@ -20,7 +20,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ## 🎯 Progress Tracker
 
-**Total Problems Solved: 32/150**
+**Total Problems Solved: 37/150**
 
 | Category | Total Problems | Problems Solved |
 |----------|----------------|-----------------|
@@ -28,7 +28,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 | Two Pointers | 5 | 5 |
 | Sliding Window | 6 | 6 |
 | Stack | 8 | 8 |
-| Binary Search | 7 | 0 |
+| Binary Search | 7 | 5 |
 | Linked List | 6 | 0 |
 | Trees | 15 | 0 |
 | Tries | 3 | 0 |
@@ -120,6 +120,24 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 - LIFO operations
 - Monotonic stack for next greater/smaller element
 - Backtracking with stack
+
+---
+
+### 5️⃣ Binary Search (5/7)
+
+| # | Problem | Difficulty | Solution | Topics |
+|---|---------|------------|----------|--------|
+| 29 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/BinarySearch.cs) | Binary Search |
+| 30 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/Search2DMatrix.cs) | Binary Search, Matrix |
+| 31 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/KokoEatingBananas.cs) | Binary Search on Answer |
+| 32 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/MinimumInRotatedSortedArray.cs) | Binary Search, Rotated Array |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/SearchInRotatedSortedArray.cs) | Binary Search, Rotated Array |
+
+**Key Patterns:**
+- Binary search on sorted arrays
+- Binary search on answer space
+- Rotated array modifications
+- 2D matrix as 1D array
 
 ---
 
