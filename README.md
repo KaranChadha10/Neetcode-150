@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
 [![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
 
@@ -20,7 +20,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ## 🎯 Progress Tracker
 
-**Total Problems Solved: 43/150**
+**Total Problems Solved: 51/150**
 
 | Category | Total Problems | Problems Solved |
 |----------|----------------|-----------------|
@@ -28,8 +28,8 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 | Two Pointers | 5 | 5 |
 | Sliding Window | 6 | 6 |
 | Stack | 8 | 8 |
-| Binary Search | 7 | 5 |
-| Linked List | 6 | 0 |
+| Binary Search | 7 | 7 |
+| Linked List | 6 | 6 |
 | Trees | 15 | 0 |
 | Tries | 3 | 0 |
 | Heap / Priority Queue | 3 | 0 |
@@ -123,7 +123,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ---
 
-### 5️⃣ Binary Search (5/7)
+### 5️⃣ Binary Search (7/7)
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
@@ -132,25 +132,48 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 | 31 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/KokoEatingBananas.cs) | Binary Search on Answer |
 | 32 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/MinimumInRotatedSortedArray.cs) | Binary Search, Rotated Array |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/SearchInRotatedSortedArray.cs) | Binary Search, Rotated Array |
+| 34 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/TimeBasedKeyValueStore.cs) | Binary Search, Hash Map, Design |
+| 35 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/BinarySearch/MedianOfTwoSortedArrays.cs) | Binary Search, Divide and Conquer |
 
 **Key Patterns:**
 - Binary search on sorted arrays
 - Binary search on answer space
 - Rotated array modifications
 - 2D matrix as 1D array
+- Binary search for floor/ceiling values
 
 ---
 
-### 6️⃣ Intervals (6/6)
+### 6️⃣ Linked List (6/6)
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 34 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/InsertInterval.cs) | Array, Binary Search, Merge |
-| 35 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MergeIntervals.cs) | Array, Sorting, Greedy |
-| 36 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/NonOverlappingIntervals.cs) | Greedy, DP, Sorting |
-| 37 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRooms.cs) | Array, Sorting |
-| 38 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRoomsII.cs) | Heap, Sorting, Sweep Line |
-| 39 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MinimumIntervalToIncludeQuery.cs) | Heap, Sorting, Sweep Line |
+| 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/ReverseALinkedList.cs) | Linked List, Recursion |
+| 37 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/MergeTwoSortedLists.cs) | Linked List, Recursion |
+| 38 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/LinkedListCycle.cs) | Linked List, Two Pointers, Fast & Slow |
+| 39 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/ReorderLinkedList.cs) | Linked List, Two Pointers, Recursion |
+| 40 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/RemoveNthNodeFromEndOfLinkedList.cs) | Linked List, Two Pointers |
+| 41 | [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/LinkedList/ReverseNodesInKthGroup.cs) | Linked List, Recursion |
+
+**Key Patterns:**
+- Fast and slow pointer technique
+- Dummy node for edge cases
+- In-place reversal
+- Two-pointer traversal
+- Recursive solutions
+
+---
+
+### 7️⃣ Intervals (6/6)
+
+| # | Problem | Difficulty | Solution | Topics |
+|---|---------|------------|----------|--------|
+| 42 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/InsertInterval.cs) | Array, Binary Search, Merge |
+| 43 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MergeIntervals.cs) | Array, Sorting, Greedy |
+| 44 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/NonOverlappingIntervals.cs) | Greedy, DP, Sorting |
+| 45 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRooms.cs) | Array, Sorting |
+| 46 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRoomsII.cs) | Heap, Sorting, Sweep Line |
+| 47 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MinimumIntervalToIncludeQuery.cs) | Heap, Sorting, Sweep Line |
 
 **Key Patterns:**
 - Sorting intervals by start or end time
