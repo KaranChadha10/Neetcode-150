@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
 [![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
 
@@ -20,7 +20,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ## 🎯 Progress Tracker
 
-**Total Problems Solved: 37/150**
+**Total Problems Solved: 43/150**
 
 | Category | Total Problems | Problems Solved |
 |----------|----------------|-----------------|
@@ -39,7 +39,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 | 1-D Dynamic Programming | 12 | 0 |
 | 2-D Dynamic Programming | 11 | 0 |
 | Greedy | 8 | 0 |
-| Intervals | 6 | 0 |
+| Intervals | 6 | 6 |
 | Math & Geometry | 8 | 0 |
 | Bit Manipulation | 7 | 0 |
 
@@ -141,6 +141,26 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ---
 
+### 6️⃣ Intervals (6/6)
+
+| # | Problem | Difficulty | Solution | Topics |
+|---|---------|------------|----------|--------|
+| 34 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/InsertInterval.cs) | Array, Binary Search, Merge |
+| 35 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MergeIntervals.cs) | Array, Sorting, Greedy |
+| 36 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/NonOverlappingIntervals.cs) | Greedy, DP, Sorting |
+| 37 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRooms.cs) | Array, Sorting |
+| 38 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MeetingRoomsII.cs) | Heap, Sorting, Sweep Line |
+| 39 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Intervals/MinimumIntervalToIncludeQuery.cs) | Heap, Sorting, Sweep Line |
+
+**Key Patterns:**
+- Sorting intervals by start or end time
+- Merge overlapping intervals
+- Sweep line algorithm with event processing
+- Priority queue for interval scheduling
+- Greedy approach for interval selection
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Language:** C# (.NET 6.0+)
@@ -155,7 +175,6 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 - Any C# IDE (Visual Studio, VS Code, Rider)
 
 ### Clone the Repository
-
 ```bash
 git clone https://github.com/yourusername/leetcode-150.git
 cd leetcode-150
@@ -250,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Karan Chadha**
 - GitHub: [Karan Chadha Github](https://github.com/KaranChadha10)
 - LinkedIn: [Karan Chadha LinkedIn](https://www.linkedin.com/in/karan-chadha-kc/)
 
