@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%23-239120.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)](https://github.com/KaranChadha10/Neetcode-150)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-56%2F150-2ea44f)](https://github.com/KaranChadha10/Neetcode-150)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue)](https://github.com/KaranChadha10/Neetcode-150)
 [![NeetCode](https://img.shields.io/badge/NeetCode-150-orange)](https://neetcode.io/practice)
 
 A comprehensive collection of solutions to the **NeetCode 150** problem set, implemented in **C#**. This repository contains well-commented, optimized solutions with detailed explanations of algorithms, time/space complexity analysis, and problem-solving strategies.
@@ -20,7 +20,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ## 🎯 Progress Tracker
 
-**Total Problems Solved: 51/150**
+**Total Problems Solved: 56/150**
 
 | Category | Total Problems | Problems Solved |
 |----------|----------------|-----------------|
@@ -30,7 +30,7 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 | Stack | 8 | 8 |
 | Binary Search | 7 | 7 |
 | Linked List | 6 | 6 |
-| Trees | 15 | 0 |
+| Trees | 15 | 5 |
 | Tries | 3 | 0 |
 | Heap / Priority Queue | 3 | 0 |
 | Backtracking | 9 | 0 |
@@ -184,6 +184,25 @@ This repository follows the [NeetCode 150](https://neetcode.io/practice) curated
 
 ---
 
+### 8️⃣ Trees (5/15)
+
+| # | Problem | Difficulty | Solution | Topics |
+|---|---------|------------|----------|--------|
+| 48 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Trees/InvertBinaryTree.cs) | Tree, DFS, Recursion |
+| 49 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Trees/MaximumDepthOfBinaryTree.cs) | Tree, DFS, BFS |
+| 50 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Trees/DiameterOfBinaryTree.cs) | Tree, DFS, Height |
+| 51 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Trees/BalancedBinaryTree.cs) | Tree, DFS, Height |
+| 52 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | [C#](https://github.com/KaranChadha10/Neetcode-150/blob/main/C%23/Trees/SameTree.cs) | Tree, DFS, Comparison |
+
+**Key Patterns:**
+- Recursive DFS traversal
+- Height/depth calculation
+- Tree comparison and validation
+- Pre-order, in-order, post-order traversals
+- Base case handling for null nodes
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Language:** C# (.NET 6.0+)
@@ -304,4 +323,4 @@ If you found this repository helpful, please give it a ⭐️!
 
 **Happy Coding! 💻✨**
 
-*Last Updated: October 2025*
+*Last Updated: January 2026*
